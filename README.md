@@ -28,7 +28,7 @@ If you want to see other functions in detail, type HELP.
 
 
 # License
-KMU-SCRC HLR is Copyright © 2020-2021 Special Communication & Convergence Service Research Center, Kookmin University (KMU-SCRC).
+KMU-SCRC VLR is Copyright © 2020-2021 Special Communication & Convergence Service Research Center, Kookmin University (KMU-SCRC).
 It is free software and it can be redistributed under the terms specified in the LICENSE file.
 
 
