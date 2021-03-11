@@ -24,7 +24,7 @@ Then you can complete accessing HLR.
 4. Input START and Port Number of a connected device.
 ```
 
-Then You can see a confirmation of starting UART communication.
+Then you can see a confirmation of starting UART communication.
 
 If you want to see other functions in detail, type HELP.
 
